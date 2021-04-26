@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am SlayK!
 
 
-A Computer Science Undergrad, Frontend Web Deeveloper. Enthusiactic about Data Structures, Algorithms and Machine Learning. You can refer to the toolbox to know about the technologies I am using currently.
+A Computer Science Undergrad, Frontend Web Developer. Enthusiactic about Data Structures, Algorithms and Machine Learning. You can refer to the toolbox to know about the technologies I am using currently.
 
 
 ---
