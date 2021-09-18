@@ -1,11 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am SlayK!
 
-A Computer Science Undergrad, Frontend Web Developer, Enthusiastic about Data Structures, Algorithms and Machine Learning. You can refer to the toolbox to know about the technologies I am using currently.
 
+- 🔭 I’m currently working on my skills.
+- 🌱 I’m currently deep diving into Machine Learning.
+- 👯 I’m looking to collaborate on anything.
+- 📫 How to reach me: [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kriti-singh-113547200/)
+&nbsp;
+- 😄 Pronouns: she/her
+- ⚡ I wish: I was a cat with nine lives.
 
----
-
-![c18noamoqwj71](https://user-images.githubusercontent.com/68421513/133886674-4783ca6c-df26-42d7-b83a-6976d1c05234.gif)
 
 ---
 
@@ -16,6 +19,8 @@ A Computer Science Undergrad, Frontend Web Developer, Enthusiastic about Data St
 
 
 ---
+![c18noamoqwj71](https://user-images.githubusercontent.com/68421513/133886674-4783ca6c-df26-42d7-b83a-6976d1c05234.gif)
+
 <!--
 **slayk/slayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
