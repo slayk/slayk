@@ -8,7 +8,7 @@ A Computer Science Undergrad, Frontend Web Developer, Enthusiastic about Data St
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="JQuery Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="JQuery Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> 
 
 
 ---
