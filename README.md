@@ -1,11 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am SlayK!
 
-
-A Computer Science Undergrad, Frontend Web Developer, Enthusiastic about Data Structures, Algorithms and Machine Learning. You can refer to the toolbox to know about the technologies I am using currently.
+![c18noamoqwj71](https://user-images.githubusercontent.com/68421513/133886674-4783ca6c-df26-42d7-b83a-6976d1c05234.gif)
 
 ---
 
-![github](https://user-images.githubusercontent.com/68421513/133886606-c7188820-fbd4-4a3d-9b63-825f775b70b7.gif)
+A Computer Science Undergrad, Frontend Web Developer, Enthusiastic about Data Structures, Algorithms and Machine Learning. You can refer to the toolbox to know about the technologies I am using currently.
+
 
 ---
 
@@ -16,7 +16,6 @@ A Computer Science Undergrad, Frontend Web Developer, Enthusiastic about Data St
 
 
 ---
-
 <!--
 **slayk/slayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
